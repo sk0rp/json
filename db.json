@@ -1,49 +1,49 @@
 {
-  FlightNumberInfo: [
+  "FlightNumberInfo": [
       {
-          AirlineIndicator: ["LH"],
-          FlightNumber: ["404"],
-          FlightDate: ["02NOV17"],
-          OperatingCarrier: ["LH"],
-          MarketingFlightNumbers: ["UA8843/SN7232"]
+          "AirlineIndicator": ["LH"],
+          "FlightNumber": ["404"],
+          "FlightDate": ["02NOV17"],
+          "OperatingCarrier": ["LH"],
+          "MarketingFlightNumbers": ["UA8843/SN7232"]
       }
   ],
-  OriginDestinationDetails: [
+  "OriginDestinationDetails": [
       {
-          DepartureAirport: ["FRA"],
-          ArrivalAirport: ["JFK"],
-          MultiLeg: ["NO"],
-          NoOfLeg: ["1"]
+          "DepartureAirport": ["FRA"],
+          "ArrivalAirport": ["JFK"],
+          "MultiLeg": ["NO"],
+          "NoOfLeg": ["1"]
       }
   ],
-  GateInformation: [
+  "GateInformation": [
       {
-        TerminalDeparture: ["1"],
-        TerminalArrival: ["1"],
-        DepartureRemoteGate: ["NO"],
-        ArrivalRemoteGate: ["NO"],
-        GateType: ["FLIGHT GATE"]
+        "TerminalDeparture": ["1"],
+        "TerminalArrival": ["1"],
+        "DepartureRemoteGate": ["NO"],
+        "ArrivalRemoteGate": ["NO"],
+        "GateType": ["FLIGHT GATE"]
       }
   ],
-  FlightTimeInformation: [
+  "FlightTimeInformation": [
       {
-        DurationOfFlight: ["0900"],
-        ScheduledDepartureTime: ["02NOV17 1720"],
-        ScheduledArrivalTime: ["02NOV17 2135"],
-        BestDepartureTime: ["02NOV17 1720"],
-        BestArrivalTime: ["02NOV17 2135"]
+        "DurationOfFlight": ["0900"],
+        "ScheduledDepartureTime": ["02NOV17 1720"],
+        "ScheduledArrivalTime": ["02NOV17 2135"],
+        "BestDepartureTime": ["02NOV17 1720"],
+        "BestArrivalTime": ["02NOV17 2135"]
       }
   ],
-  FlightStatus: [
+  "FlightStatus": [
       {
-        ArrivalStatus: ["On Time"],
-        DepartureStatus: ["On Time"],
-        OverallFlightStatus: ["On Time"]
+        "ArrivalStatus": ["On Time"],
+        "DepartureStatus": ["On Time"],
+        "OverallFlightStatus": ["On Time"]
       }
   ],
-  ProcessFlightStatus: [
+  "ProcessFlightStatus": [
       {
-        Disclaimer: ["NO"]
+        "Disclaimer": ["NO"]
       }
   ]
 }

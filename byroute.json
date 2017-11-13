@@ -1,0 +1,391 @@
+[
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LX",
+         "FlightNumber": "1068",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LX",
+         "MarketingFlightNumbers": "LH5771"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0055",
+         "ScheduledDepartureTime": "31OCT17 0655",
+         "ScheduledArrivalTime": "31OCT17 0805",
+         "BestDepartureTime": "31OCT17 0655",
+         "BestArrivalTime": "31OCT17 0805"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C1Y179"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LH",
+         "FlightNumber": "1183",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LH",
+         "MarketingFlightNumbers": "AC9085/LX3612/NH6248/UA8822"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0050",
+         "ScheduledDepartureTime": "31OCT17 0805",
+         "ScheduledArrivalTime": "31OCT17 0910",
+         "BestDepartureTime": "31OCT17 0805",
+         "BestArrivalTime": "31OCT17 0910"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C180"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LH",
+         "FlightNumber": "1187",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LH",
+         "MarketingFlightNumbers": "AC9029/CA6066/LX3602/UA9051"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0050",
+         "ScheduledDepartureTime": "31OCT17 1115",
+         "ScheduledArrivalTime": "31OCT17 1220",
+         "BestDepartureTime": "31OCT17 1115",
+         "BestArrivalTime": "31OCT17 1220"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C168"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LX",
+         "FlightNumber": "1072",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LX",
+         "MarketingFlightNumbers": "LH5775"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0050",
+         "ScheduledDepartureTime": "31OCT17 1215",
+         "ScheduledArrivalTime": "31OCT17 1320",
+         "BestDepartureTime": "31OCT17 1215",
+         "BestArrivalTime": "31OCT17 1320"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C1Y124"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LH",
+         "FlightNumber": "1191",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LH",
+         "MarketingFlightNumbers": "AC9025/CA6068/JJ6009/LX3604/UA9142"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0045",
+         "ScheduledDepartureTime": "31OCT17 1440",
+         "ScheduledArrivalTime": "31OCT17 1540",
+         "BestDepartureTime": "31OCT17 1440",
+         "BestArrivalTime": "31OCT17 1540"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C138"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LX",
+         "FlightNumber": "1074",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LX",
+         "MarketingFlightNumbers": "LH5777"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0050",
+         "ScheduledDepartureTime": "31OCT17 1545",
+         "ScheduledArrivalTime": "31OCT17 1650",
+         "BestDepartureTime": "31OCT17 1545",
+         "BestArrivalTime": "31OCT17 1650"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C1Y124"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LH",
+         "FlightNumber": "7203",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LH"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0100",
+         "ScheduledDepartureTime": "31OCT17 1800",
+         "ScheduledArrivalTime": "31OCT17 1915",
+         "BestDepartureTime": "31OCT17 1800",
+         "BestArrivalTime": "31OCT17 1915"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C67E32M272"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LH",
+         "FlightNumber": "1197",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LH",
+         "MarketingFlightNumbers": "ET1604/LX3608/NH6100/SA7582"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0045",
+         "ScheduledDepartureTime": "31OCT17 1805",
+         "ScheduledArrivalTime": "31OCT17 1905",
+         "BestDepartureTime": "31OCT17 1805",
+         "BestArrivalTime": "31OCT17 1905"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C168"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LX",
+         "FlightNumber": "1076",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LX",
+         "MarketingFlightNumbers": "LH5779"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0055",
+         "ScheduledDepartureTime": "31OCT17 1900",
+         "ScheduledArrivalTime": "31OCT17 2010",
+         "BestDepartureTime": "31OCT17 1900",
+         "BestArrivalTime": "31OCT17 2010"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C1Y218"
+      }
+   },
+   {
+      "FlightNumberInfo": {
+         "AirlineIndicator": "LH",
+         "FlightNumber": "1199",
+         "FlightDate": "31OCT17",
+         "OperatingCarrier": "LH",
+         "MarketingFlightNumbers": "LX3610"
+      },
+      "OriginDestinationDetails": {
+         "DepartureAirport": "ZRH",
+         "ArrivalAirport": "FRA",
+         "MultiLeg": "NO"
+      },
+      "GateInformation": {
+         "TerminalArrival": "1",
+         "DepartureRemoteGate": "NO",
+         "ArrivalRemoteGate": "NO",
+         "GateType": "FLIGHT GATE"
+      },
+      "FlightTimeInformation": {
+         "DurationOfFlight": "0045",
+         "ScheduledDepartureTime": "31OCT17 1955",
+         "ScheduledArrivalTime": "31OCT17 2055",
+         "BestDepartureTime": "31OCT17 1955",
+         "BestArrivalTime": "31OCT17 2055"
+      },
+      "FlightStatus": {
+         "ArrivalStatus": "On Time",
+         "DepartureStatus": "On Time",
+         "OverallFlightStatus": "On Time"
+      },
+      "ProcessFlightStatus": {
+         "Disclaimer": "NO"
+      },
+      "AircraftInformation": {
+         "TransportType": "FLIGHT",
+         "SeatConfiguration": "C138"
+      }
+   }
+]
